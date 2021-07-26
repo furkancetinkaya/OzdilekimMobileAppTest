@@ -1,0 +1,35 @@
+
+# Concept Heading
+* Validate app is open.
+* Wait for "1" seconds.
+* On "InitialPage", click on element "initialPage_begin_shopping_button".
+//* Wait for "3" seconds.
+* Validate page "HomePage" loaded.
+//* Wait for "1" seconds.
+* Navigate to "CATEGORIES" navbar menu.
+//* Wait for "1" seconds.
+* Validate page "CategoriesPage" loaded.
+* Select category "WOMAN".
+//* Wait for "1" seconds.
+* Select woman item "TROUSER".
+//* Wait for "1" seconds.
+* Swipe screen "30" times.
+* On "ProductPage", click base - inner element "productPage_last_product" - "productPage_product_inner_favourite_part".
+//* Wait for "1" seconds.
+* Validate page "LogInPage" loaded.
+//* Wait for "1" seconds.
+* On "LogInPage", click on element "loginPage_back_button".
+//* Wait for "1" seconds.
+* Validate page "ProductPage" loaded.
+//* Wait for "1" seconds.
+* Navigate to "ACCOUNT" navbar menu.
+//* Wait for "1" seconds.
+* Validate page "LogInPage" loaded.
+//* Wait for "1" seconds.
+* On "LogInPage", click on element "loginPage_back_button".
+//* Wait for "1" seconds.
+* Validate page "ProductPage" loaded.
+//* Wait for "1" seconds.
+* Navigate to "CART" navbar menu.
+//* Wait for "1" seconds.
+* Validate page "LogInPage" loaded.

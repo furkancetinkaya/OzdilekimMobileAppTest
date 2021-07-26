@@ -1,0 +1,12 @@
+[
+  {
+    "key": "loginPage_login_button",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/btnLogin"
+  },
+  {
+    "key": "loginPage_back_button",
+    "by": "XPATH",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/ivBack']"
+  }
+]

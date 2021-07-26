@@ -1,0 +1,17 @@
+[
+  {
+    "key": "womanPage_shirt_item",
+    "by": "XPATH",
+    "value": "//*[@id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[2]"
+  },
+  {
+    "key": "womanPage_jacket_item",
+    "by": "XPATH",
+    "value": "//*[@id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[3]"
+  },
+  {
+    "key": "womanPage_trousers_item",
+    "by": "XPATH",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[4]"
+  }
+]

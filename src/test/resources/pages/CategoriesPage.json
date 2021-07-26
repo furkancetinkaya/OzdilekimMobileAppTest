@@ -1,0 +1,67 @@
+[
+  {
+    "key": "categoriesPage_home_textile_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[1]"
+  },
+  {
+    "key": "categoriesPage_woman_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[2]"
+  },
+  {
+    "key": "categoriesPage_man_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[3]"
+  },
+  {
+    "key": "categoriesPage_shoe_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[12]"
+  },
+  {
+    "key": "categoriesPage_child_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[5]"
+  },
+  {
+    "key": "categoriesPage_sports_and_outdoor_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[6]"
+  },
+  {
+    "key": "categoriesPage_home_and_lifestyle_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[7]"
+  },
+  {
+    "key": "categoriesPage_perfume_and_cosmetics_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[8]"
+  },
+  {
+    "key": "categoriesPage_watch_and_glasses_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[9]"
+  },
+  {
+    "key": "categoriesPage_tv_promotional_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[10]"
+  },
+  {
+    "key": "categoriesPage_clearance_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[11]"
+  },
+  {
+    "key": "categoriesPage_all_campaigns_category",
+    "by": "XPATH",
+    "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[12]"
+  },
+  {
+    "key": "categoriesPage_validation_text",
+    "by": "XPATH",
+    "value": "//android.widget.LinearLayout[@content-desc='Kategoriler']"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "key": "page_navbar_categories",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/nav_categories"
+  },
+  {
+    "key": "page_navbar_homepage",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/nav_home"
+  },
+  {
+    "key": "page_navbar_campaigns",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/nav_campaigns"
+  },
+  {
+    "key": "page_navbar_account",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/nav_account"
+  },
+  {
+    "key": "page_navbar_cart",
+    "by": "ID",
+    "value": "com.ozdilek.ozdilekteyim:id/nav_cart"
+  }
+]

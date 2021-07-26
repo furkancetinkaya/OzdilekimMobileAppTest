@@ -1,0 +1,17 @@
+[
+  {
+    "key": "productPage_last_product",
+    "by": "XPATH",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerView']/android.widget.FrameLayout[last()]"
+  },
+  {
+    "key": "productPage_product_inner_favourite_part",
+    "by": "XPATH",
+    "value": "/android.view.ViewGroup/android.widget.ImageView[@resource-id='com.ozdilek.ozdilekteyim:id/ivFavorite']"
+  },
+  {
+    "key": "productPage_order_item",
+    "by": "XPATH",
+    "value": "//android.widget.RelativeLayout[@resource-id='com.ozdilek.ozdilekteyim:id/relLayOrder']"
+  }
+]
